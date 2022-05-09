@@ -1,6 +1,3 @@
+import ViewPdf from './src/ViewPdf';
 
-import * as pdf from './src/pdf'
-
-export {
-    pdf
-};
+export { ViewPdf };
